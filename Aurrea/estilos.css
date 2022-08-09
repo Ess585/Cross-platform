@@ -1,3 +1,5 @@
+@import url(menu.css);
+
 * {
     margin: 0;
     padding: 0;
@@ -23,5 +25,13 @@ header{
 .contenedor{
     width: 98%;
     margin: auto;
-    
+
+}
+
+h1 {
+    float: left; 
+}
+
+header .contenedor{
+    display: table;
 }
