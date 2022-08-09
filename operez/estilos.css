@@ -4,6 +4,10 @@ h1 {
     font-weight: bold;
 }
 
+header, section, footer{
+    display: block;
+}
+
 p{
     text-align: left;
     font-size: 16px;
@@ -20,3 +24,23 @@ body{
     border: 3px solid #9bfae0;
     padding: 20px;
 }
+
+.cabecera h1{
+    text-align: left;
+}
+
+.seccion{
+    margin: 20px;
+    width: 60%;
+    border: 3px solid black;
+    float: right;
+    background: #c6e602;
+}
+
+article {
+    background: #16e6ae;
+    border: 1px solid #cece0c;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
