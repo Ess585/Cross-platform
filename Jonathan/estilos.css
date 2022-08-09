@@ -66,3 +66,12 @@ article{
     padding: 20px;
     margin-bottom: 15px;
 }
+
+article footer{
+    text-align: right;
+    margin-top: 20px;
+
+}
+time{
+    color: #999999;
+}
