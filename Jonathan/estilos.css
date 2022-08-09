@@ -8,3 +8,8 @@ h2{
 
     font: bold 23px sans-serif;
 }
+
+header,section, footer, aside, nav, article, hgroup, p{
+    display:block;
+
+}
