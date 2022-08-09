@@ -58,3 +58,11 @@ p{
     font: bold 23px verdana;
     display: inline-block;
 }
+
+
+article{
+    background: #BAF9CC;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 15px;
+}
