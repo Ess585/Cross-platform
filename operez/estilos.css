@@ -4,7 +4,7 @@ h1 {
     font-weight: bold;
 }
 
-header, section, footer{
+header, section, footer, aside, nav{
     display: block;
 }
 
