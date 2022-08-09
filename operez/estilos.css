@@ -31,14 +31,13 @@ body{
 
 .seccion{
     margin: 20px;
-    width: 62%;
+    width: 60%;
     border: 3px solid black;
     float: right;
 }
 
 article {
     background: #16e6ae;
-    border: 1px solid #cece0c;
     padding: 20px;
     margin-bottom: 15px;
 }
@@ -62,4 +61,10 @@ article {
     clear: both;
     padding: 20px;
     background: #beb2e9;
+}
+
+img{
+    width: 90%;
+    display: block;
+    margin: 20 px
 }
