@@ -68,3 +68,10 @@ img{
     display: block;
     margin: 20 px
 }
+
+.columna blockquote{
+    border: solid black;
+    padding: 40px;
+    background: #ce877d;
+    margin-bottom: 20px;
+}
