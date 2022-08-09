@@ -13,3 +13,8 @@ header,section, footer, aside, nav, article, hgroup, p{
     display:block;
 
 }
+
+body{
+    text-align: center;
+    background: gray;
+}
