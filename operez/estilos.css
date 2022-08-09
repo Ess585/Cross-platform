@@ -44,3 +44,17 @@ article {
     margin-bottom: 15px;
 }
 
+.agrupar {
+    background: #120052;
+    border: 1px solid black;
+    width: 80%;
+    margin: 15px auto;
+}
+
+.columna{
+    width: 30%;
+    border: 1px solid black;
+    float: left;
+    background: #652ec7;
+    margin: 25px;
+}
