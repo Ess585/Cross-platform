@@ -31,10 +31,9 @@ body{
 
 .seccion{
     margin: 20px;
-    width: 60%;
+    width: 62%;
     border: 3px solid black;
     float: right;
-    background: #c6e602;
 }
 
 article {
@@ -57,4 +56,10 @@ article {
     float: left;
     background: #652ec7;
     margin: 25px;
+}
+
+.pie{
+    clear: both;
+    padding: 20px;
+    background: #beb2e9;
 }
