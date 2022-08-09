@@ -70,7 +70,7 @@ body{
 }
 
 .menu{
-    background-color:#36a345 ;
+    background-color:#2580a1 ;
     padding: 5px  15px ;
     text-align: left;
 }
@@ -96,7 +96,7 @@ body{
 }
 
 article{
-    background-color: #36a345;
+    background-color: #2580a1;
     border: 1px solid black;
     padding: 20px;
     margin-bottom: 15px;
@@ -108,7 +108,7 @@ article img{
 }
 
 time{
-    color:  #4e915f ; 
+    color:  #ffffff ; 
 }
 
 article footer{
