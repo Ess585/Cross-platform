@@ -35,10 +35,11 @@ body{
     border: 3px solid black;
     text-align: center;
     float: right;
+    background-image: radial-gradient(circle at 50% -20.71%, #ffe6cd 0, #ffe7ca 6.25%, #ffe9c9 12.5%, #ffebc8 18.75%, #fbecc8 25%, #f6eec8 31.25%, #f1efc9 37.5%, #ebf1cb 43.75%, #e6f2cd 50%, #e1f3d0 56.25%, #dbf4d3 62.5%, #d6f5d7 68.75%, #d1f6db 75%, #ccf7df 81.25%, #c8f8e4 87.5%, #c4f8e9 93.75%, #c1f8ee 100%);
 }
 
 article {
-    background: #16e6ae;
+    background-image: radial-gradient(circle at 50% -20.71%, #fff56b 0, #fff866 6.25%, #fdfa63 12.5%, #e7fb61 18.75%, #d0fb62 25%, #b5fa65 31.25%, #97f86a 37.5%, #73f670 43.75%, #3cf278 50%, #00ee82 56.25%, #00ea8f 62.5%, #00e69d 68.75%, #00e2ad 75%, #00dfbe 81.25%, #00dbd1 87.5%, #00d8e3 93.75%, #00d6f6 100%);
     padding: 20px;
     margin-bottom: 15px;
     border: 1px solid black;
@@ -55,7 +56,7 @@ article {
     width: 30%;
     border: 1px solid black;
     float: left;
-    background: #652ec7;
+    background-image: radial-gradient(circle at 50% -20.71%, #e459ea 0, #c84ded 16.67%, #a544f0 33.33%, #783cf2 50%, #2538f4 66.67%, #0039f5 83.33%, #003af6 100%);
     margin: 25px;
 }
 
@@ -74,6 +75,10 @@ img{
 .columna blockquote{
     border: solid black;
     padding: 40px;
-    background: #ce877d;
+    background-image: linear-gradient(180deg, #f2bfff 0, #d5aeff 25%, #b99df2 50%, #9e8cd6 75%, #867bbc 100%);
     margin-bottom: 20px;
+}
+
+.columna blockquote img{
+    width: 99%;
 }
