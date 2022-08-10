@@ -9,14 +9,14 @@ header, section, footer, aside, nav{
 }
 
 p{
-    text-align: left;
+    text-align: center;
     font-size: 16px;
     padding: 15px;
 }
 
 body{
     text-align: center;
-    background: #9bfae0;
+    background-image: linear-gradient(180deg, #ffb629 0, #ffa537 10%, #ff9243 20%, #ff7e4b 30%, #ff6951 40%, #f25353 50%, #d93f53 60%, #c22f54 70%, #ad2355 80%, #9b1b56 90%, #8c1859 100%);
 }
 
 .cabecera{
@@ -33,6 +33,7 @@ body{
     margin: 20px;
     width: 60%;
     border: 3px solid black;
+    text-align: center;
     float: right;
 }
 
@@ -40,6 +41,7 @@ article {
     background: #16e6ae;
     padding: 20px;
     margin-bottom: 15px;
+    border: 1px solid black;
 }
 
 .agrupar {
@@ -64,9 +66,9 @@ article {
 }
 
 img{
-    width: 90%;
+    width: 55%;
     display: block;
-    margin: 20 px
+    margin: 20px auto;
 }
 
 .columna blockquote{
